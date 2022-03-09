@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<STyle>
+    table{
+        height: 30px;
+    }
+</STyle>
+</head>
+
+
+<body>
+    <center><h1>ALI BROTHERS INCOME STATEMENT</h1></center>
+    <center>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Income</th>
+                <th>Expenditure</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1st January</th>
+                <td>250</td>
+                <td>36</td>
+            </tr>
+            <tr>
+                <th>2nd January</th>
+                <td>285</td>
+                <td>48</td>
+            </tr>
+            <!-- additional rows as above -->
+            <tr>
+                <th>31st January</th>
+                <td>129</td>
+                <td>64</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>2 Febuary</th>
+                <td>7824</td>
+                <td>1241</td>
+            </tr>
+            <tr>
+                <th>4 Febuary</th>
+                <td>724</td>
+                <td>1610</td>
+            </tr>
+            <tr>
+                <th>6 Febuary</th>
+                <td>824</td>
+                <td>241</td>
+            </tr>
+            <tr>
+                <th>8 Febuary</th>
+                <td>84</td>
+                <td>191</td>
+            </tr>
+            <tr>
+                <th>12 Febuary</th>
+                <td>784</td>
+                <td>101</td>
+            </tr>
+            <tr>
+                <th>20 Febuary</th>
+                <td>24</td>
+                <td>124</td>
+            </tr>
+            <tr>
+                <th>22 Febuary</th>
+                <td>824</td>
+                <td>121</td>
+            </tr>
+        </tfoot>
+    </table>
+</center>
+</body>
+
+</html>
